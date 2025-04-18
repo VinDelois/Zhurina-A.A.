@@ -1,0 +1,28 @@
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.AssemblyReference.cache
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\MainWindow.baml
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\MainWindow.g.cs
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\App.g.cs
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp_MarkupCompile.cache
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.g.resources
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.Properties.Resources.resources
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.GenerateResource.cache
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.CoreCompileInputs.cache
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.exe.config
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.exe
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.pdb
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.exe
+C:\Users\zhuri\source\repos\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.pdb
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.exe.config
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.exe
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\bin\Debug\AttendanceApp.pdb
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.AssemblyReference.cache
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\MainWindow.baml
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\MainWindow.g.cs
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\App.g.cs
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp_MarkupCompile.cache
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.g.resources
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.Properties.Resources.resources
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.GenerateResource.cache
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.csproj.CoreCompileInputs.cache
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.exe
+C:\Users\zhuri\OneDrive\Рабочий стол\AttendanceApp\AttendanceApp\obj\Debug\AttendanceApp.pdb
